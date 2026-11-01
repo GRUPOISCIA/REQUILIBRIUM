@@ -27,12 +27,10 @@ Este sitio presenta la visión y el método de la empresa, sus servicios, produc
 | Contacto | Formulario para proyectos, conferencias, alianzas, reclutamiento e información |
 
 ## 🧰 Tecnologías
-
-- **CMS:** WordPress
-- **Maquetación:** Elementor
-- **Multilenguaje:** Inglés y español
-- **Contenido multimedia:** imágenes en formato WebP y SVG
-- **SEO:** metadatos Open Graph, Twitter Cards y etiquetas canónicas
+HTML5
+JS
+CSS
+PHP
 
 ## 🚀 Instalación y uso local
 
